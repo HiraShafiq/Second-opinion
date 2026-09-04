@@ -23,11 +23,6 @@ cp .env.example .env
 # open .env and paste in your GEMINI_API_KEY and EXA_API_KEY
 ```
 
-**Gemini key**: from the Google AI Studio link/credentials in your hackathon
-email — inside AI Studio, click "Get API key" and copy it in.
-
-**Exa key**: from your Exa dashboard at https://dashboard.exa.ai (API Keys
-tab).
 
 ## Run
 
