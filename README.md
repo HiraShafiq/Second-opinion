@@ -32,6 +32,8 @@ python app.py
 
 Then open http://localhost:5000
 
+Direct Link: https://web-production-722ec.up.railway.app/
+
 ## Demo script (for judges)
 
 1. Paste a sample pathology report (see `sample_report.txt`).
