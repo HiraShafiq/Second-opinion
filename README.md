@@ -32,7 +32,7 @@ python app.py
 
 Then open http://localhost:5000
 
-Direct Link: https://web-production-722ec.up.railway.app/
+Direct Link: https://second-opinion-drab.vercel.app/
 
 ## Demo script (for judges)
 
